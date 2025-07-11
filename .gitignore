@@ -1,0 +1,6 @@
+__pycache__/
+qdrant_data/
+processed_docs/*
+!processed_docs/.gitkeep
+pdf_docs/*
+!pdf_docs/.gitkeep

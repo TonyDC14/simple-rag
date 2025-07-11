@@ -1,0 +1,11 @@
+name: xe-alejandria-rag
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - pdfplumber>=0.10.2
+      - qdrant-client>=1.7.0
+      - sentence-transformers>=2.2.2
+      - openai>=1.6.0
